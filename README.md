@@ -1,8 +1,8 @@
 # SpicyEngine.DX a fork of SharpDX
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/sharpdx/SharpDX/blob/master/LICENSE)
-[![Build status](https://ci.appveyor.com/api/projects/status/21v2akj26ytuyml6?svg=true)](https://ci.appveyor.com/project/xoofx/sharpdx) 
-[![NuGet](https://img.shields.io/nuget/v/SharpDX.svg)](https://www.nuget.org/packages?q=Tags%3A%22SharpDX%22)
+[![Build status]() 
+[![NuGet]()
 
 Fork Official web site: [LagowiecDev/SpicyEngine/Packages/DX](http://products.lagowiecdev.com/spicyengine/directx)
 
